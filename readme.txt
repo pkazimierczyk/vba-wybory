@@ -1,0 +1,1 @@
+Właściwym plikiem do uruchomienia programu jest plik wyniki.xlsm. Plik wybory-wyniki.xlsm jest przykładowym plikiem wypełnionym danymi.
